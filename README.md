@@ -11,6 +11,10 @@ using
 * output to current work dir run it from
 
 
+updates
+=======
+2015-07-23	add webp support
+
 platform
 ========
 * tested on linux,
